@@ -1,0 +1,41 @@
+.topnav {
+    background-color: blue;
+    overflow: auto;
+}
+
+table {
+    border: 2px solid pink;
+    border-collapse: collapse;
+}
+
+td,th {
+    border: 1px solid blue;
+    padding: 4px
+}
+
+h1,
+h2,
+h3,
+h4 {
+    color: red;
+    /* font -x text-rendering: ;   */
+    font-weight: bold;
+    font-style: italic
+}
+
+/* <img> {
+    src - fill DCE 22 129;
+
+}
+
+h1 {
+    fond font-style: margi;
+} */
+
+img {
+    border: 5px solid black;
+}
+
+/* body {
+    black ground img=
+} */
